@@ -12,6 +12,8 @@ Description goes here
 * [Homepage](https://groupname.slack.com/)
 * [Invite](https://vantech.herokuapp.com/) -- if you have one
 * Categories: Thing, Thing, Thing
+
+---
 ```
 
 #### For Lazy Devs

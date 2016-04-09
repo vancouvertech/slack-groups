@@ -10,6 +10,8 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 * [Invite](https://vantech.herokuapp.com/)
 * Categories: Thing, Thing, Thing
 
+---
+
 ## VancouverTech
 
 An open collaborate platform for and by the Vancouver Tech community, using [Sameroom](http://www.sameroom.io) to connect multiple teams, and help flatten heirarchy.
